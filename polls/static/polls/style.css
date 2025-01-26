@@ -1,0 +1,9 @@
+body {
+    background: center / contain url("images/background.png") no-repeat;
+
+
+}
+
+li a {
+    color: green;
+}
